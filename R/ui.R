@@ -5,7 +5,7 @@
 
 app_ui <- function() {
 
-  regTitle <- "fraktur"
+  regTitle <- "Norsk frakturregister"
 
   shiny::tagList(
     shiny::navbarPage(
